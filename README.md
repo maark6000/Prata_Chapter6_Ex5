@@ -5,9 +5,9 @@ Others have posted the exercise problems from this book, but I was proud of this
 
 "Have a program request the user to enter an uppercase letter.  Use nested loops to produce a pyramid pattern like this:
 
-    A
-   ABA
-  ABCBA
- ABCDBCA
+    A  
+   ABA  
+  ABCBA  
+ ABCDBCA  
 
 The pattern should extend to the character entered."
